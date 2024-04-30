@@ -12,10 +12,10 @@ int main() {
     return 0;
 }
 //function added in branch1
-int func_add(int c, int d)
+int func_add(int a, int b)
 {
         // i am in main branch
         // i am making this changes in
         // one more change
-        return c+d;
+        return a+b;
 }
